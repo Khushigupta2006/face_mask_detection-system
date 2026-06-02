@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+*.mp4
+*.avi
+
+face_mask_images_dataset/
+
+train.py
+evaluate.py
+
